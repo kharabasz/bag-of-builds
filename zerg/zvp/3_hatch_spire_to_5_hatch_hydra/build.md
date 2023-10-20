@@ -74,3 +74,8 @@ Drone count @ 10:30    ~55
     Hatches @ 11:30    9
      Supply @ 12:00    130+
 ```
+
+**__Video Resources__**
+- [Jaeyun: Week 1 - Zerg vs Protoss 5hh Lecture](https://www.youtube.com/watch?v=nu6u5wYqesw)
+- [Jaeyun: Week 2 - Zerg vs Protoss 5hh Lecture](https://www.youtube.com/watch?v=9_DyJjPef2s)
+- [Jaeyun: Week 3 - Zerg vs Protoss 5hh Lecture](https://www.youtube.com/watch?v=QmApgqP1SOE)

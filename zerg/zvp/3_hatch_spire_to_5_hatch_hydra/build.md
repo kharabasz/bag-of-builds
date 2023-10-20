@@ -10,7 +10,7 @@ __Early Game (0:00 - 7:30)__
 11 hatchery
 Make 1 pair of zergling, then drone until 14 supply
 send drone to third at 2:30
---------------------------------------------------------------------
+-------------------------------
 14 gas (at 2:37)
 14 hatchery
 16 lair (at precisely 3:31 to get extra larva)
@@ -18,7 +18,7 @@ send drone to third at 2:30
 17 drone (from nat)
 18 drone (from nat)
 @100 gas upgrade zergling speed
----------------------------------------------------------------------
+-------------------------------
 @overlord make 2 more pairs of zerglings (from main)
 @100% lair, make spire
 23 overlord (from main)

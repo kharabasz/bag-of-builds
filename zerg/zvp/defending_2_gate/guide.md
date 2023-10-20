@@ -21,4 +21,4 @@ If I go the mutas route vs a 2gate, does that require 2 gasses?  I feel like Pro
 
 As a follow up you eventually go 2 gas. If you go muta you need to abuse Protoss's 1 gas which requires that you get sair kills with scourge, and are able to micro muta vs archon. 
 
-Otherwise, Z gives up too much eco going for spire vs 2 gate and the simpler alternative play is to go lurker/drone.```
+Otherwise, Z gives up too much eco going for spire vs 2 gate and the simpler alternative play is to go lurker/drone.

@@ -23,7 +23,7 @@ As a follow up you eventually go 2 gas. If you go muta you need to abuse Protoss
 
 Otherwise, Z gives up too much eco going for spire vs 2 gate and the simpler alternative play is to go lurker/drone.
 
-
+___
 
 **__vOddy on playing against 2 Gate (ZvP)__**
 

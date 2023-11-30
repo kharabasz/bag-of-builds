@@ -61,3 +61,6 @@ get your 3rd gas
 @100% +1 ranged attack - +2 ranged attack
 ```
 
+__Zero's original video (translated by JinJinn):__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/op8rl1-voxQ?si=uFTDnENBbX52VV1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

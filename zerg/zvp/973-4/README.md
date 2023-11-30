@@ -63,4 +63,5 @@ get your 3rd gas
 
 __Zero's original video (translated by JinJinn):__
 
-[![ZvP Zero's new 973-4 build](http://img.youtube.com/vi/op8rl1-voxQ/0.jpg)](https://www.youtube.com/watch?v=op8rl1-voxQ)
+**__Video Resources__**
+- [Zero: ZvP new 973-4 build](https://www.youtube.com/watch?v=op8rl1-voxQ)

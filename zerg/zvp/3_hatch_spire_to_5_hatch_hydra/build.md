@@ -1,5 +1,11 @@
 **__ZvP 3 Hatch Spire to 5 Hatch Hydra (Standard ZvP Build)__**
 
+This build delays the economic boost of a 4/5 hatch before gas in return for faster lair tech. This allows Zerg to take initiative, and thus control the pace of the game.
+
+By reaching Lair tech faster, a Zerg player is able to effectively halt heavy Corsair play through the use of Scourge while maintaining a sizeable economic advantage. 
+
+This is the most standard build for ZvP due to versatility.
+
 __Early Game (0:00 - 7:30)__
 ```
 9 overlord

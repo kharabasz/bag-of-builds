@@ -33,5 +33,5 @@ at 26/26:
 - once you feel you can break the cannons, split hydra to 2-3 hotkeys and focus down individual cannons
 ```
 
-
-Reference game from Jaeyun: https://www.youtube.com/watch?v=i_35uQFT9kQ
+__Video Resources__
+- [Jaeyun: Reference Game](https://www.youtube.com/watch?v=i_35uQFT9kQ)

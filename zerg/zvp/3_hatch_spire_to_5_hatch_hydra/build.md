@@ -1,4 +1,4 @@
-**__ZvP 3 Hatch Spire to 5 Hatch Hydra (Standard ZvP Build)__**
+# ZvP 3 Hatch Spire to 5 Hatch Hydra (Standard ZvP Build)
 
 This build delays the economic boost of a 4/5 hatch before gas in return for faster lair tech. This allows Zerg to take initiative, and thus control the pace of the game.
 

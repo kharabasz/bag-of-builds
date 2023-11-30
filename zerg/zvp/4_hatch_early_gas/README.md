@@ -1,4 +1,4 @@
-**__4h early gas__**
+#4h early gas__**
 
 This build progression slightly delays tech in favor of drones while still staying safe and allowing for a transition into 3 base hive.
 

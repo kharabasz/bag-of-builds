@@ -1,4 +1,7 @@
 **__ZvP 4 Hatch 2 Base Hydra__**
+
+This build from **Hawk** allows you to limit your exposure to early zealot harassment through the use of a sunken and then transition into standard 3 base hydra/lurker play.
+
 ```
 9 - overlord
 9 - pool

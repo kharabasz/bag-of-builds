@@ -1,4 +1,4 @@
-**__ZvP 973-4 (Zero's Fake 3hh Bust)__**
+# ZvP 973-4 (Zero's Fake 3hh Bust)
 
 This is an aggressive opening that is designed to force a play style on the Protoss while allowing you to make drones and hatcheries in order to secure an economic advantage.
 

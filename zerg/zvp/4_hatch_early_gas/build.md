@@ -1,5 +1,8 @@
-This build progression slightly delays tech in favor of drones while still staying safe and allowing for a transition into 3 base hive.
 **__4h early gas__**
+
+This build progression slightly delays tech in favor of drones while still staying safe and allowing for a transition into 3 base hive.
+
+
 ```
 - vs forge FE
  - (overpool)

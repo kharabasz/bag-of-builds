@@ -23,6 +23,8 @@ As a follow up you eventually go 2 gas. If you go muta you need to abuse Protoss
 
 Otherwise, Z gives up too much eco going for spire vs 2 gate and the simpler alternative play is to go lurker/drone.
 
+
+
 **__vOddy on playing against 2 Gate (ZvP)__**
 
 You can play hydra against 1 base, but there's an easier way. ZvP was imbalanced in favor of Zerg back when Protoss played 2 gate (it's balanced now), so I recommend exploiting the weakness of 2 gate, and the reason it was Zerg favored back then, which is the lack of Protoss gas.

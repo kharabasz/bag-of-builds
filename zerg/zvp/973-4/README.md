@@ -61,7 +61,5 @@ get your 3rd gas
 @100% +1 ranged attack - +2 ranged attack
 ```
 
-__Zero's original video (translated by JinJinn):__
-
-**__Video Resources__**
+__Video Resources__
 - [Zero: ZvP new 973-4 build](https://www.youtube.com/watch?v=op8rl1-voxQ)

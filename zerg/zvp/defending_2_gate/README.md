@@ -1,4 +1,6 @@
-**__Hawk on defending 2 gate (ZvP)__**
+# Defending 2 gate (ZvP)
+
+## Hawk on defending 2 gate (ZvP)
 
 Vs 2 gate, you have to force situations using the threat of counterattacks. It's difficult to explain because it's a giant flowchart:
 - Z takes center of map with lings
@@ -23,9 +25,7 @@ As a follow up you eventually go 2 gas. If you go muta you need to abuse Protoss
 
 Otherwise, Z gives up too much eco going for spire vs 2 gate and the simpler alternative play is to go lurker/drone.
 
-___
-
-**__vOddy on playing against 2 Gate (ZvP)__**
+## vOddy on playing against 2 Gate (ZvP)
 
 You can play hydra against 1 base, but there's an easier way. ZvP was imbalanced in favor of Zerg back when Protoss played 2 gate (it's balanced now), so I recommend exploiting the weakness of 2 gate, and the reason it was Zerg favored back then, which is the lack of Protoss gas.
 

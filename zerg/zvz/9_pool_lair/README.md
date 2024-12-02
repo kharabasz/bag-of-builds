@@ -1,4 +1,4 @@
-# ZvZ 9 Pool Lair (Lingepumpe)
+# ZvZ 9 Pool Lair (Lingepumpe style)
 
 ```
 9 - pool
